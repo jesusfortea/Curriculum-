@@ -1,0 +1,169 @@
+.style1{
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+.style2 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+#container-navbar{
+    background-color: #1C4587;
+}
+
+#img-navbar{
+    width: 100%;
+}
+
+#text-navbar{
+    color: aliceblue;
+    font-size: 120%;
+}
+
+#container-navbar-options{
+    padding-left: 75%;
+}
+
+.header{
+    width: 100%;
+    font-size: 1200%;
+    text-align: center;
+    padding-bottom: 15%;
+    display: flex;
+    color: black;
+}
+
+#img{
+    width: 100%;
+    position: absolute;
+    padding: 0%;
+}
+
+#text-img{
+    padding-top: 11%;
+    left: 17%;
+    position: relative;
+}
+
+#presentation-header{
+    font-size: 300%;
+    padding-left: 2%;
+}
+
+#personal-info{
+    width: 100%;
+    display: flex;
+}
+
+#left-size{
+    width: 40%;
+    padding-left: 1%;
+    font-size: 250%;
+    align-content: center;
+}
+
+#link{
+    text-decoration: none;
+    text-align: center;
+}
+
+#right-size{
+    width: 50%;
+}
+
+#name{
+    display: flex;
+}
+
+#name-color{
+    color: #1C4587;
+    padding-top: 2%;
+}
+
+#name-space{
+    padding-left: 4%;
+    padding-top: 2%;
+}
+
+#second-header{
+    padding-top: 5%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    font-size: 250%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border: 1px solid black;
+}
+
+#left-size-header{
+    width: 40%;
+    text-align: center;
+    align-content: center;
+    border: 1px solid black;
+}
+
+#center-size-header{
+    width: 40%;
+    text-align: center;
+    align-content: center;
+    border: 1px solid black;
+}
+
+#right-size-header{
+    width: 40%;
+    text-align: center;
+    align-content: center;
+    border: 1px solid black;
+}
+
+#second-left-size{
+    width: 40%;
+    text-align: center;
+    font-size: 200%;
+    align-content: center;
+    border: 1px solid black;
+}
+
+#second-center-size{
+    width: 40%;
+    text-align: center;
+    font-size: 200%;
+    align-content: center;
+    border: 1px solid black;
+}
+
+#second-right-size{
+    width: 40%;
+    text-align: center;
+    font-size: 200%;
+    align-content: center;
+    border: 1px solid black;
+}
+
+#second-personal-info{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    border: 1px solid black;
+}
+
+#button{
+    background-color: rgba(0, 255, 255, 0.1);
+    border: 2px solid #1C4587;
+    text-align: center;
+    align-content: center;
+
+}
+
+#third-size{
+    width: 100%;
+}
