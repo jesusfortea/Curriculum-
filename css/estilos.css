@@ -88,6 +88,10 @@
     width: 50%;
 }
 
+#video{
+    width: 100%;
+}
+
 #name{
     display: flex;
 }
@@ -107,7 +111,6 @@
     width: 100%;
     display: flex;
     text-align: center;
-    font-size: 250%;
     padding-left: 15%;
     padding-right: 3%;
     font-size: 300%;
@@ -323,4 +326,493 @@
     text-align: center;
     padding-bottom: 3%;
     padding-top: 1%;
+}
+
+#image-nub{
+    width: 100%;
+}
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 1500px){
+
+}
+
+@media screen and (max-width: 1320px) {
+    #container-navbar-options{
+        padding-left: 70%;
+    }
+
+    #text-img{
+        padding-top: 11%;
+        left: 6%;
+        position: relative;
+    }
+
+    #text-img2{
+        padding-top: 11%;
+        left: 15%;
+        position: relative;
+    }
+    
+    #text-img3{
+        padding-top: 11%;
+        left: 7%;
+        position: relative;
+    }
+
+    #left-size{
+        width:45%;
+        padding-left: 2%;
+        font-size: 250%;
+        align-content: center;
+    }
+
+    #third-size-location{
+        display: block;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 220%;
+        align-items: none;
+        text-align: none;
+        align-content: none;
+        padding-left: 2%;
+        padding-bottom: 2%;
+    }
+    
+    #third-size-location-right{
+        width: 100%;
+        text-align: center;
+    }
+
+    
+    #fourth-size-right-text{
+        font-size: 220%;
+        padding-right: 3%;
+        width: 100%;
+        align-content: center;
+        align-items:center ;
+        padding-top: 0%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #container-navbar-options{
+        padding-left: 69%;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 1100%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #text-img{
+        padding-top: 11%;
+        left: 10%;
+        position: relative;
+    }
+
+    #text-img2{
+        padding-top: 11%;
+        left: 18%;
+        position: relative;
+    }
+    
+    #text-img3{
+        padding-top: 11%;
+        left: 9%;
+        position: relative;
+    }
+
+    #left-size{
+        width:45%;
+        padding-left: 2%;
+        font-size: 230%;
+        align-content: center;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        font-size: 250%;
+        padding-left: 15%;
+        padding-right: 3%;
+    }
+
+    #second-left-size{
+        width: 40%;
+        text-align: center;
+        font-size: 150%;
+        align-content: center;
+    }
+    
+    #second-right-size{
+        width: 40%;
+        text-align: center;
+        font-size: 150%;
+        align-content: center;
+    }
+    
+    #third-size-location-left{
+        width: 50%;
+        font-size: 230%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #Martí-size{
+        width: 100%;
+    }
+    
+    #Bell-size{
+        width: 100%;
+        padding-bottom: 3%;
+    }
+
+    #location-size{
+        display: block;
+    }
+
+    
+    #fourth-size-right-text{
+        font-size: 220%;
+        padding-right: 3%;
+        width: 100%;
+        align-content: center;
+        align-items:center ;
+        padding-top: 0%;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .header{
+        width: 100%;
+        font-size: 1000%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #text-img{
+        padding-top: 11%;
+        left: 11%;
+        position: relative;
+    }
+
+    #text-img2{
+        padding-top: 11%;
+        left: 18%;
+        position: relative;
+    }
+    
+    #text-img3{
+        padding-top: 11%;
+        left: 9%;
+        position: relative;
+    }
+
+    #container-navbar-options{
+        padding-left: 66%;
+    }
+
+    
+    #fourth-size-right-text{
+        font-size: 200%;
+        padding-right: 3%;
+        width: 100%;
+        align-content: center;
+        align-items:center ;
+        padding-top: 2%;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    #text-img{
+        padding-top: 11%;
+        left: 9%;
+        position: relative;
+    }
+
+    #text-img2{
+        padding-top: 11%;
+        left: 17%;
+        position: relative;
+    }
+    
+    #text-img3{
+        padding-top: 11%;
+        left: 9%;
+        position: relative;
+    }
+
+    #container-navbar-options{
+        padding-left: 64%;
+    }
+
+    #left-size{
+        width:45%;
+        padding-left: 2%;
+        font-size: 210%;
+        align-content: center;
+    }
+
+    #third-size-location-left{
+        width: 50%;
+        font-size: 210%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #fourth-size-right-text{
+        font-size: 200%;
+        padding-right: 3%;
+        width: 100%;
+        align-content: center;
+        align-items:center ;
+        padding-top: 1%;
+    }
+}
+
+@media screen and (max-width: 1031px) {
+    #container-navbar-options{
+        padding-left: 62%;
+    }
+
+    #text-img{
+        padding-top: 11%;
+        left: 7%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 18%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 11%;
+        left: 6.5%;
+        position: relative;
+    }
+}
+
+@media screen and (max-width: 1001px) {
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 18%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 11%;
+        left: 6.5%;
+        position: relative;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 210%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #container-navbar-options{
+        padding-left: 50%;
+    }
+
+    #text-img{
+        padding-top: 11%;
+        left: 6%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 18%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 11%;
+        left: 6.5%;
+        position: relative;
+    }
+
+    #img-navbar{
+        width: 10%;
+    }
+
+    #left-size{
+        width:45%;
+        padding-left: 2%;
+        font-size: 200%;
+        align-content: center;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 200%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #text-navbar{
+        color: aliceblue;
+        font-size: 160%;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    #container-navbar-options{
+        padding-left: 50%;
+    }
+
+    #text-img{
+        padding-top: 11%;
+        left: 3%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 11%;
+        left: 3%;
+        position: relative;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 180%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #fourth-size-right-text{
+        font-size: 180%;
+        padding-right: 3%;
+        width: 100%;
+        align-content: center;
+        align-items:center ;
+        padding-top: 1%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 150%;
+    }
+
+    #personal-info{
+        width: 100%;
+        display: block;
+    }
+
+    #left-size{
+        width: 100%;
+        padding-left: 2%;
+        font-size: 180%;
+        align-content: center;
+        padding-bottom: 2%;
+    }
+    
+    #right-size{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 920px) {
+
+    #text-img{
+        padding-top: 11%;
+        left: 6%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 17%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 6%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 900%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+    
+}
+
+@media screen and (max-width: 880px) {
+
+    #text-img{
+        padding-top: 11%;
+        left: 4%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 17%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 4%;
+        position: relative;
+    }
+    
+}
+
+@media screen and (max-width: 840px) {
+
+    #text-img{
+        padding-top: 11%;
+        left: 2%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 17%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 4%;
+        position: relative;
+    }
+    
 }
