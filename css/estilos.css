@@ -799,7 +799,7 @@
 
     #text-img{
         padding-top: 11%;
-        left: 2%;
+        left: 5%;
         position: relative;
     }
     
@@ -813,6 +813,1010 @@
         padding-top: 13%;
         left: 4%;
         position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 800%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #container-navbar-options{
+        padding-left: 45%;
+    }
+    
+}
+
+@media screen and (max-width: 760px) {
+    #text-img{
+        padding-top: 11%;
+        left: 8%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 17%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 8%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 700%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    #text-img{
+        padding-top: 11%;
+        left: 8%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 17%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 8%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 700%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #fourth-size-content{
+        width: 100%;
+        display: block;
+        padding-left: 2%;
+    }
+
+    #fourth-size-left{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    #text-img{
+        padding-top: 11%;
+        left: 5%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 17%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 4%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 700%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #left-size-header{
+        width: 40%;
+        text-align: center;
+        align-content: center;
+        color: #1C4587;
+        padding-right: 5%;
+    }
+    
+    #right-size-header{
+        width: 40%;
+        text-align: center;
+        align-content: center;
+        color: #1C4587;
+        padding-left: 3%;
+    }
+    
+    #second-left-size{
+        width: 40%;
+        text-align: center;
+        font-size: 150%;
+        align-content: center;
+        padding-right: 3%;
+    }
+    
+    #second-right-size{
+        width: 40%;
+        text-align: center;
+        font-size: 150%;
+        align-content: center;
+        padding-left: 3%;
+    }
+    
+    #fourth-size-right-text{
+        font-size: 150%;
+        padding-right: 3%;
+        width: 100%;
+        align-content: center;
+        align-items:center ;
+        padding-top: 0%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 110%;
+    }
+
+    #container-navbar-options{
+        padding-left: 50%;
+    }
+
+    #text-navbar{
+        color: aliceblue;
+        font-size: 110%;
+    }
+
+}
+
+@media screen and (max-width: 670px) {
+    #text-img{
+        padding-top: 11%;
+        left: 8%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 18%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 6%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 600%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #text-img{
+        padding-top: 11%;
+        left: 13%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 20%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 12%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 500%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #border{
+        border: 1px solid black;
+        width: 25%;
+        text-align: center;
+        font-size: 200%;
+        background-color: #1c458724;
+    }
+    
+    #border2{
+        border: 1px solid black;
+        width: 25%;
+        text-align: center;
+        font-size: 70%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+}
+
+@media screen and (max-width: 565px) {
+    #text-img{
+        padding-top: 11%;
+        left: 10%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 20%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 10%;
+        position: relative;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 2%;
+        padding-right: 3%;
+        font-size: 250%;
+    }
+    
+    #left-size-header{
+        width: 40%;
+        text-align: center;
+        align-content: center;
+        color: #1C4587;
+    }
+    
+    #right-size-header{
+        width: 40%;
+        text-align: center;
+        align-content: center;
+        color: #1C4587;
+        padding-right: 5%;
+    }
+    
+    #second-left-size{
+        width: 40%;
+        text-align: center;
+        font-size: 150%;
+        align-content: center;
+    }
+    
+    #second-right-size{
+        width: 40%;
+        text-align: center;
+        font-size: 150%;
+        align-content: center;
+    }
+    
+    #second-personal-info{
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 2%;
+        padding-top: 2%;
+        padding-right: 3%;
+        padding-bottom: 3%;
+    }
+
+    #maps{
+        width: 90%;
+    }
+
+    #fourth-size-right-text{
+        font-size: 110%;
+        padding-right: 3%;
+        width: 100%;
+        align-content: center;
+        align-items:center ;
+        padding-top: 0%;
+    }
+
+    #presentation-header{
+        font-size: 300%;
+        padding-left: 3%;
+    }
+
+    #fourth-size-header{
+        font-size: 300%;
+        padding-left: 4%;
+    }
+
+    #third-size-header{
+        font-size: 300%;
+        padding-left: 4%;
+    }
+
+    #container-navbar-options{
+        padding-left: 40%;
+    }
+}
+
+@media screen and (max-width: 535px) {
+    #text-img{
+        padding-top: 11%;
+        left: 8%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 20%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 7%;
+        position: relative;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 2%;
+        padding-right: 3%;
+        font-size: 200%;
+    }
+
+    #second-personal-info{
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 5%;
+        padding-top: 2%;
+        padding-right: 3%;
+        padding-bottom: 3%;
+    }
+
+    #second-left-size{
+        width: 40%;
+        text-align: center;
+        font-size: 100%;
+        align-content: center;
+    }
+    
+    #second-right-size{
+        width: 50%;
+        text-align: center;
+        font-size: 100%;
+        align-content: center;
+    }
+
+    #right-size-header{
+        width: 40%;
+        text-align: center;
+        align-content: center;
+        color: #1C4587;
+        padding-left: 15%;
+    }
+
+    #left-size-header{
+        width: 40%;
+        text-align: center;
+        align-content: center;
+        color: #1C4587;
+        padding-left: 6%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #text-img{
+        padding-top: 11%;
+        left: 5%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 18%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 5%;
+        position: relative;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    #text-img{
+        padding-top: 11%;
+        left: 12%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 20%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 11%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 400%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #presentation-header{
+        font-size: 250%;
+        padding-left: 3%;
+    }
+
+    #fourth-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #left-size{
+        width: 100%;
+        padding-left: 2%;
+        font-size: 150%;
+        align-content: center;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 3%;
+        font-size: 150%;
+    }
+
+
+    #right-size-header{
+        width: 30%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 10%;
+    }
+
+    #left-size-header{
+        width: 40%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 0%;
+        padding-right: 20%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 150%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 100%;
+    }
+
+    #container-navbar-options{
+        padding-left: 30%;
+    }
+
+    #footer-english-option{
+        text-decoration: none;
+        font-size: 170%;
+        color: black;
+    }
+}
+
+@media screen and (max-width: 427px) {
+    #text-img{
+        padding-top: 11%;
+        left: 9%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 20%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 8%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 400%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #presentation-header{
+        font-size: 250%;
+        padding-left: 3%;
+    }
+
+    #fourth-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #left-size{
+        width: 100%;
+        padding-left: 2%;
+        font-size: 150%;
+        align-content: center;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 3%;
+        font-size: 150%;
+    }
+
+
+    #right-size-header{
+        width: 30%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 10%;
+    }
+
+    #left-size-header{
+        width: 40%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 0%;
+        padding-right: 20%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 150%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 100%;
+    }
+
+    #container-navbar-options{
+        padding-left: 30%;
+    }
+
+    #footer-english-option{
+        text-decoration: none;
+        font-size: 170%;
+        color: black;
+    }
+
+}
+
+@media screen and (max-width: 409px) {
+    #text-img{
+        padding-top: 11%;
+        left: 6%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 19%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 6%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 400%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #presentation-header{
+        font-size: 250%;
+        padding-left: 3%;
+    }
+
+    #fourth-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #left-size{
+        width: 100%;
+        padding-left: 2%;
+        font-size: 150%;
+        align-content: center;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 3%;
+        font-size: 150%;
+    }
+
+
+    #right-size-header{
+        width: 30%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 10%;
+    }
+
+    #left-size-header{
+        width: 40%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 0%;
+        padding-right: 20%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 150%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 100%;
+    }
+
+    #container-navbar-options{
+        padding-left: 30%;
+    }
+
+    #footer-english-option{
+        text-decoration: none;
+        font-size: 170%;
+        color: black;
+    }
+
+}
+
+@media screen and (max-width: 376px) {
+    #text-img{
+        padding-top: 11%;
+        left: 3%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 16%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 2%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 400%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #presentation-header{
+        font-size: 250%;
+        padding-left: 3%;
+    }
+
+    #fourth-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #left-size{
+        width: 100%;
+        padding-left: 2%;
+        font-size: 150%;
+        align-content: center;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 3%;
+        font-size: 150%;
+    }
+
+
+    #right-size-header{
+        width: 30%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 10%;
+    }
+
+    #left-size-header{
+        width: 40%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 0%;
+        padding-right: 20%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 150%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 100%;
+    }
+
+    #container-navbar-options{
+        padding-left: 20%;
+    }
+
+    #footer-english-option{
+        text-decoration: none;
+        font-size: 170%;
+        color: black;
+    }
+
+    #first-size{
+        text-align: center;
+        font-size: 200%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 80%;
+    }
+    
+}
+
+@media screen and (max-width: 365px) {
+    #text-img{
+        padding-top: 11%;
+        left: 1%;
+        position: relative;
+    }
+    
+    #text-img2{
+        padding-top: 11%;
+        left: 16%;
+        position: relative;
+    }
+
+    #text-img3{
+        padding-top: 13%;
+        left: 0%;
+        position: relative;
+    }
+
+    .header{
+        width: 100%;
+        font-size: 400%;
+        text-align: center;
+        padding-bottom: 15%;
+        display: flex;
+        color: black;
+    }
+
+    #presentation-header{
+        font-size: 250%;
+        padding-left: 3%;
+    }
+
+    #fourth-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #left-size{
+        width: 100%;
+        padding-left: 2%;
+        font-size: 150%;
+        align-content: center;
+    }
+
+    #second-header{
+        padding-top: 5%;
+        width: 100%;
+        display: flex;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 3%;
+        font-size: 150%;
+    }
+
+
+    #right-size-header{
+        width: 30%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 10%;
+    }
+
+    #left-size-header{
+        width: 40%;
+        text-align: left;
+        align-content: left;
+        color: #1C4587;
+        padding-left: 0%;
+        padding-right: 20%;
+    }
+
+    #third-size-header{
+        font-size: 250%;
+        padding-left: 4%;
+    }
+
+    #third-size-location-left{
+        width: 100%;
+        font-size: 150%;
+        align-items: center;
+        text-align: center;
+        align-content: center;
+        padding-left: 2%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 100%;
+    }
+
+    #container-navbar-options{
+        padding-left: 20%;
+    }
+
+    #footer-english-option{
+        text-decoration: none;
+        font-size: 170%;
+        color: black;
+    }
+
+    #first-size{
+        text-align: center;
+        font-size: 200%;
+    }
+
+    #description-size-nub{
+        padding-left: 2%;
+        padding-right: 2%;
+        font-size: 80%;
     }
     
 }
