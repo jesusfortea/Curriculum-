@@ -56,6 +56,12 @@
     position: relative;
 }
 
+#text-img3{
+    padding-top: 11%;
+    left: 16%;
+    position: relative;
+}
+
 #presentation-header{
     font-size: 400%;
     padding-left: 3%;
@@ -287,4 +293,34 @@
 
 #location-size{
     display: flex;
+}
+
+
+/* Tercera parte */
+
+
+#experience-nub{
+    width: 100%;
+    padding-top: 5%;
+}
+
+#header-nub{
+    font-size: 300%;
+    padding-left: 3%;
+}
+
+#description-nub{
+    width: 100%;
+}
+
+#description-size-nub{
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 170%;
+}
+
+#description-size-image-nub{
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 1%;
 }
